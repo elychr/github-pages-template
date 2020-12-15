@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/corebp.github.io/static/css/main.fb19337e.chunk.css",
+    "main.js": "/corebp.github.io/static/js/main.e855630c.chunk.js",
+    "main.js.map": "/corebp.github.io/static/js/main.e855630c.chunk.js.map",
+    "runtime-main.js": "/corebp.github.io/static/js/runtime-main.2f3e7c46.js",
+    "runtime-main.js.map": "/corebp.github.io/static/js/runtime-main.2f3e7c46.js.map",
+    "static/js/2.be3d91ba.chunk.js": "/corebp.github.io/static/js/2.be3d91ba.chunk.js",
+    "static/js/2.be3d91ba.chunk.js.map": "/corebp.github.io/static/js/2.be3d91ba.chunk.js.map",
+    "index.html": "/corebp.github.io/index.html",
+    "static/css/main.fb19337e.chunk.css.map": "/corebp.github.io/static/css/main.fb19337e.chunk.css.map",
+    "static/js/2.be3d91ba.chunk.js.LICENSE.txt": "/corebp.github.io/static/js/2.be3d91ba.chunk.js.LICENSE.txt",
+    "static/media/accredo_accounts_payable.md": "/corebp.github.io/static/media/accredo_accounts_payable.6e907db4.md",
+    "static/media/accredo_accounts_receivable.md": "/corebp.github.io/static/media/accredo_accounts_receivable.649b01c4.md",
+    "static/media/accredo_cash_book.md": "/corebp.github.io/static/media/accredo_cash_book.e6c224f9.md",
+    "static/media/accredo_company.md": "/corebp.github.io/static/media/accredo_company.0a8e4e31.md",
+    "static/media/accredo_general_ledger.md": "/corebp.github.io/static/media/accredo_general_ledger.10444c05.md",
+    "static/media/accredo_gst.md": "/corebp.github.io/static/media/accredo_gst.f917d5ec.md",
+    "static/media/accredo_jobs.md": "/corebp.github.io/static/media/accredo_jobs.b718205b.md",
+    "static/media/accredo_prods.md": "/corebp.github.io/static/media/accredo_prods.60e3cc11.md",
+    "static/media/accredo_purchase_orders.md": "/corebp.github.io/static/media/accredo_purchase_orders.4e310137.md",
+    "static/media/accredo_sales.md": "/corebp.github.io/static/media/accredo_sales.90366d53.md",
+    "static/media/cmd.md": "/corebp.github.io/static/media/cmd.9decddfc.md",
+    "static/media/corefire_extras.md": "/corebp.github.io/static/media/corefire_extras.ba02c4a7.md",
+    "static/media/corefire_jobs.md": "/corebp.github.io/static/media/corefire_jobs.85903d6c.md",
+    "static/media/corefire_prods.md": "/corebp.github.io/static/media/corefire_prods.bbcea194.md",
+    "static/media/logo.be9cfe1a.png": "/corebp.github.io/static/media/logo.be9cfe1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3e7c46.js",
+    "static/js/2.be3d91ba.chunk.js",
+    "static/css/main.fb19337e.chunk.css",
+    "static/js/main.e855630c.chunk.js"
+  ]
+}
