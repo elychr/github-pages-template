@@ -1,0 +1,38 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "17:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: react-markdown
+    versions:
+    - 6.0.0
+    - 6.0.1
+  - dependency-name: "@testing-library/jest-dom"
+    versions:
+    - 5.12.0
+  - dependency-name: "@testing-library/user-event"
+    versions:
+    - 12.7.1
+    - 12.7.2
+    - 12.7.3
+    - 12.8.0
+    - 12.8.3
+    - 13.0.1
+    - 13.0.10
+    - 13.0.15
+    - 13.0.2
+    - 13.0.4
+    - 13.0.7
+    - 13.1.1
+    - 13.1.2
+  - dependency-name: postcss
+    versions:
+    - 8.2.5
+    - 8.2.9
+  - dependency-name: react-dev-utils
+    versions:
+    - 11.0.4
