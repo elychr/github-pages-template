@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://corebp.github.io/corebp.github.io",
   "dependencies": {
-    "@material-ui/core": "^4.11.4",
+    "@material-ui/core": "^4.12.0",
     "@material-ui/icons": "^4.11.2",
     "@tailwindcss/typography": "^0.4.1",
     "@testing-library/jest-dom": "^5.14.1",
